@@ -1,5 +1,6 @@
 # Github Action - dotnet
 
+Link de referencia [aqui](https://www.stevejgordon.co.uk/getting-started-with-github-actions-for-dotnet-developers).
 
 ## Primeiros passos
 
