@@ -8,11 +8,11 @@ namespace Tests
         [Fact]
         public void Test1()
         {
-	   var a = new AwesomeLibClass(10);
+					 var a = new AwesomeLibClass(20);
 
-	   var res = a.Double();
+					 var res = a.Double();
 
-	   Assert.Equal(20, res);
+					 Assert.Equal(20, res);
         }
     }
 }
