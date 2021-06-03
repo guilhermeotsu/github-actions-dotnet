@@ -1,0 +1,12 @@
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/bin/Debug/net5.0/VeryAwesomeLib.deps.json
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/bin/Debug/net5.0/VeryAwesomeLib.dll
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/bin/Debug/net5.0/ref/VeryAwesomeLib.dll
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/bin/Debug/net5.0/VeryAwesomeLib.pdb
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/VeryAwesomeLib.csprojAssemblyReference.cache
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/VeryAwesomeLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/VeryAwesomeLib.AssemblyInfoInputs.cache
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/VeryAwesomeLib.AssemblyInfo.cs
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/VeryAwesomeLib.csproj.CoreCompileInputs.cache
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/VeryAwesomeLib.dll
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/ref/VeryAwesomeLib.dll
+/home/otsu/codes/csharp/GitHubActionTest/src/VeryAwesomeLib/obj/Debug/net5.0/VeryAwesomeLib.pdb
